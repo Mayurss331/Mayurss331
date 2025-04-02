@@ -1,6 +1,6 @@
 ## 🚀 Featured Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Social_media)](https://github.com/yourusername/Social_media)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=StudentAttendanceUsingFacerecognition)](https://github.com/yourusername/StudentAttendanceUsingFacerecognition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayurss331&repo=Social_media)](https://github.com/Mayurss331/Social_media)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayurss331&repo=StudentAttendanceUsingFacerecognition)](https://github.com/Mayurss331/StudentAttendanceUsingFacerecognition)
 
 
 # 👋 Hey there, I'm Mayur!
@@ -48,28 +48,28 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in web d
 
 ## 🌟 Featured Projects
 
-### 🔹 [Social Media Platform](https://github.com/yourusername/Social_media) 🌐
+### 🔹 [Social Media Platform](https://github.com/Mayurss331/Social_media) 🌐
 A fully functional social media website built with PHP, HTML, CSS, JavaScript, and MySQL. Includes:
 - User authentication & profiles
 - Post creation, likes, and comments
 - Follow system & real-time notifications
 
-### 🔹 [Student Attendance Using Face Recognition](https://github.com/yourusername/StudentAttendanceUsingFacerecognition) 📷
+### 🔹 [Student Attendance Using Face Recognition](https://github.com/Mayurss331/StudentAttendanceUsingFacerecognition) 📷
 A face recognition-based student attendance system where teachers can record attendance through facial detection.
 
-### 🔹 [Car Game](https://github.com/yourusername/CarGame) 🚗
+### 🔹 [Car Game](https://github.com/Mayurss331/CarGame) 🚗
 A fun Java-based car game developed using Java Swing for GUI-based gameplay.
 
-### 🔹 [Train Reservation System](https://github.com/yourusername/TrainReservation) 🚆
+### 🔹 [Train Reservation System](https://github.com/Mayurss331/TrainReservation) 🚆
 A Java-based train reservation system for booking, modifying, and canceling train tickets.
 
-### 🔹 [Personal Productivity Planner](https://github.com/yourusername/Personal-Productivity-Planner) 📅
+### 🔹 [Personal Productivity Planner](https://github.com/Mayurss331/Personal-Productivity-Planner) 📅
 A goal-oriented planner built with HTML, CSS, JavaScript, PHP, and MySQL to boost productivity.
 
-### 🔹 [Mail Sender](https://github.com/yourusername/Mail_Sender) ✉️
+### 🔹 [Mail Sender](https://github.com/Mayurss331/Mail_Sender) ✉️
 A simple yet efficient Python-based email sender built for Elementis SoftTech.
 
-### 🔹 [Number Guessing Game](https://github.com/yourusername/Number_Guessing_Game) 🎲
+### 🔹 [Number Guessing Game](https://github.com/Mayurss331/Number_Guessing_Game) 🎲
 A classic Java-based game where players guess numbers with logic-based hints.
 
 ---

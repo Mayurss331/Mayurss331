@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Mayurss331/Mayurss331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Mayur👋
 
 Welcome to my GitHub profile! I'm passionate about building scalable web applications, deep learning projects, and innovative solutions. 🚀
 

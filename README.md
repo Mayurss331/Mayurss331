@@ -1,13 +1,15 @@
-## 🚀 Featured Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayurss331&repo=Social_media)](https://github.com/Mayurss331/Social_media)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayurss331&repo=StudentAttendanceUsingFacerecognition)](https://github.com/Mayurss331/StudentAttendanceUsingFacerecognition)
-
-
 # 👋 Hey there, I'm Mayur!
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in web development, deep learning, and software solutions. I love creating innovative applications that make a difference. 🚀
 
 ---
+
+## 🚀 Featured Repositories  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayurss331&repo=Social_media)](https://github.com/Mayurss331/Social_media)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayurss331&repo=StudentAttendanceUsingFacerecognition)](https://github.com/Mayurss331/StudentAttendanceUsingFacerecognition)
+
+
+
 
 ## 🚀 About Me
 
